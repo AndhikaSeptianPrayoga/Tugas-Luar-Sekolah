@@ -1,6 +1,6 @@
 ![Luar Sekolah](https://www.luarsekolah.com/images/svg/logo.svg)
 
-# Tugas 1: JavaScript
+# Tugas 3: JavaScript
 
 ## 📌 Informasi Peserta
 - **Nama**: Andhika Septian Prayoga  
