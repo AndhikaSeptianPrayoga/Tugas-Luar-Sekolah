@@ -1,10 +1,7 @@
 ![Luar Sekolah](https://www.luarsekolah.com/images/svg/logo.svg)
 
 <<<<<<< HEAD
-# Tugas 1: HTML dan CSS
-=======
-# Tugas 2: CSS
->>>>>>> c5b9ace8738f44eefc70c63786d963df5295085c
+# Tugas 2: HTML dan CSS
 
 ## 📌 Informasi Peserta
 - **Nama**: Andhika Septian Prayoga  
