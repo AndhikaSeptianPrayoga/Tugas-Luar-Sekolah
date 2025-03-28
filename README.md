@@ -21,7 +21,7 @@ Website ini dirancang dengan tampilan modern dan responsif agar dapat diakses de
 ---
 
 ## 📸 Screenshot Tampilan Website
-![Screenshot Tampilan Website](ss.png)
+![Screenshot Tampilan Website](sspicture.png)
 
 ---
 
