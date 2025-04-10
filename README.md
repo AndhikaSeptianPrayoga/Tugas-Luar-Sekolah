@@ -8,6 +8,7 @@ Silakan pindah ke branch yang sesuai untuk mengakses tugas mingguan.
 - **weekly-1**: Tugas 1 - HTML dan CSS
 - **weekly-2**: Tugas 2 - CSS
 - **weekly-3**: Tugas 3 - JavaScript
+- **weekly-4**: Tugas 4 - Deployment
 
 ## 📌 Informasi Peserta
 - **Nama**: Andhika Septian Prayoga  
